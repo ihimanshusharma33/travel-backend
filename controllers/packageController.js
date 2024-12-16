@@ -2,7 +2,6 @@ import Package from '../models/package.js';
 
 export const getAllPackages = async (req, res) => {
     try {
-        console.log('getAllPackages controller active');
         const packageData = await Package.find({});
         if (!packageData) {
             return res.status(404).send('No packages found');
