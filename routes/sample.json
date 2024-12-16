@@ -1,0 +1,32 @@
+{"_id":{"$oid":"675d9741d3b4a8d29a5f87a3"},
+      "title": "Royal Rajasthan Tour",
+      "price": 1499,
+      "duration": "7 days",
+      "description": "Explore the royal heritage of Rajasthan with visits to Jaipur, Udaipur, Jodhpur, and Jaisalmer.",
+      "nextAvailableDate": "2024-01-15",
+      "images": [
+        "https://t3.ftcdn.net/jpg/09/87/15/22/240_F_987152277_AvY7Hflb2KUglAbutcZ6MUZRX01y2zOb.jpg",
+        "https://t4.ftcdn.net/jpg/07/42/35/21/240_F_742352153_31umTyX78Ipd6OEWdWdeKIw2KJE9hfTt.jpg",
+        "https://t3.ftcdn.net/jpg/10/23/77/98/240_F_1023779822_9FPSJsGabnmKDuH16Qa5Jvqt7SIgD7bC.jpg"
+      ],
+      "highlights": [
+        "A royal journey through Rajasthan's cultural and historical landmarks.",
+        "Visit majestic forts and palaces.",
+        "Experience the vibrant local culture."
+      ],
+      "itinerary": "Day 1: Jaipur - Arrival and sightseeing\nDay 2: Udaipur - Lake Pichola boat ride\nDay 3: Jodhpur - Explore Mehrangarh Fort\nDay 4: Jaisalmer - Desert safari and camel ride\nDay 5: Jaipur - Return journey",
+      "included": [
+        "Luxury accommodation",
+        "Daily breakfast and dinner",
+        "Professional guide",
+        "All transfers",
+        "Equipment rental"
+      ],
+      "excluded": [
+        "International flights",
+        "Travel insurance",
+        "Personal expenses",
+        "Lunch meals"
+      ],
+      "originalData": true
+    }
